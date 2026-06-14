@@ -1,120 +1,41 @@
-# My SNHU Computer Science Journey
+# Samuel Stidham — SNHU Computer Science Portfolio
 
-This repository serves as a public portfolio of my academic work at Southern New Hampshire University. It focuses on summarizing course concepts and key learning outcomes, demonstrating my progression without sharing specific assignments or solutions.
+This repository documents my academic journey at Southern New Hampshire University across both my undergraduate and graduate Computer Science programs.
 
-The primary goal is to maintain a high-integrity record of my academic growth that can be shared with potential employers.
-
-## Structure
-
-* The `README.md` (this file) provides a high-level, chronological overview of my coursework and degree path.
-
-* The `docs/` folder contains in-depth summaries for each course, detailing key concepts, projects, and personal reflections. **Note**: Files will only be added to this folder as courses are in progress or completed.
-
-## Emoji Key
-
-* ✅ = Complete
-* ⏳ = Upcoming or In Progress
-
-## Degree Path Overview
-
-**Degree:** Bachelor of Science in Computer Science
-**Concentration:** Software Engineering
-**Minor:** Mathematics
-**Total Credits Required:** 120 (57 completed, 63 remaining)
-
-### General Education Requirements
-
-* **IDS-104** – Mindset & Growth for Learning ✅
-* **PHL-260** – Ethical Problem-Solving ✅
-* **MAT-142** – Precalculus with Limits ✅
-* **MAT-225** – Calculus I: Single-Variable Calculus ✅
-* **MAT-243** – Applied Statistics for STEM *(still needed)*
-* **IDS-410** – Problem Solving for Social Change *(still needed)*
-
-### Major Courses (Computer Science Core)
-
-* **IT-140** – Introduction to Scripting ✅
-* **IT-145** – Foundation in Application Development ✅
-* **CS-210** – Programming Languages ⏳
-* **CS-250** – Software Development Lifecycle ⏳
-* **CS-300** – Data Structures and Algorithms ⏳
-* **DAD-220** – Intro to Structured Database Environments ⏳
-* **MAT-230** – Discrete Mathematics ⏳
-* **PHY-150** – Intro Physics: Mechanics ⏳
-* **CS-230** – Operating Platforms
-* **CS-255** – System Analysis and Design
-* **CS-305** – Software Security
-* **CS-320** – Software Testing, Automation, and QA
-* **CS-330** – Computational Graphics and Visualization
-* **CS-340** – Client/Server Development
-* **CS-360** – Mobile Architecture and Programming
-* **CS-370** – Current and Emerging Trends in CS
-* **CS-465** – Full Stack Development I
-* **CS-499** – Computer Science Capstone
-* **MAT-350** – Applied Linear Algebra
-
-### Software Engineering Concentration
-
-* **CS-319** – UI/UX Design and Development
-* **CS-350** – Emerging Systems Architectures & Technologies
-* **CS-405** – Secure Coding
-* **CS-410** – Software Reverse Engineering
-
-### Mathematics Minor (6 Courses)
-
-> Courses marked with † also satisfy General Education or Major requirements.
-
-* **MAT-142** – Precalculus with Limits ✅ † *(Mathematics Elective I)*
-* **MAT-225** – Calculus I: Single-Variable Calculus ✅ †
-* **MAT-230** – Discrete Mathematics ⏳ † *(Mathematics Elective II)*
-* **MAT-275** – Calculus II: Integration & Series ✅
-* **MAT-299** – Mathematical Proof and Problem Solving
-* **MAT-415** – Abstract Algebra
+**Institution:** Southern New Hampshire University
+**Overall GPA:** 4.000
 
 ---
 
-## Academic Progress & Grades
+## Programs
 
-Below is a summary of the courses taken, organized by academic year. Statuses will be updated as I progress, and final grades will be added upon completion.
+| Degree | Status | Projected Completion |
+| :----- | :----- | :----- |
+| [**Bachelor of Science in Computer Science**](bachelors.md) | In Progress | December 2027 |
+| [**Master of Science in Computer Science**](masters.md) | Planned | TBD |
 
-### Year 1 (2025)
+---
 
-| Course | Name | Status | Final Grade (Points) |
-| :----- | :----- | :----- | :----- |
-| [**PHL-260**](docs/2025/01%20-%20PHL260.md) | Ethical Problem-Solving | Completed | **A (994/1000)** |
-| [**IDS-104**](docs/2025/02%20-%20IDS104.md) | Mindset & Growth for Learning | Completed | **A (1000/1000)** |
-| [**MAT-142**](docs/2025/03%20-%20MAT142.md) | Precalculus with Limits | Completed | **A (983.53/1000)** |
+## Repository Structure
 
-### Year 2 (2026)
+* [`bachelors.md`](bachelors.md) — Full course list, grades, and schedule for the BS program
+* [`masters.md`](masters.md) — Full course list, grades, and schedule for the MS program *(coming soon)*
+* [`docs/`](docs/) — Individual course summaries, organized by year
 
-| Course | Name | Status | Final Grade (Points) |
-| :----- | :----- | :----- | :----- |
-| [**IT-140**](docs/2026/04%20-%20IT140.md) | Introduction to Scripting | Completed | **A (1000/1000)** |
-| [**MAT-225**](docs/2026/05%20-%20MAT225.md) | Calculus I: Single-Variable Calculus | Completed | **A (989.77/1000)** |
-| [**IT-145**](docs/2026/06%20-%20IT145.md) | Foundation in Application Development | Completed | **A (986.5/1000)** |
-| [**MAT-275**](docs/2026/07%20-%20MAT275.md) | Calculus II: Integration & Series | Completed | **A (994.25/1000)** |
-| [**CS-210**](docs/2026/08%20-%20CS210.md) | Programming Languages | Planned (May 2026) | TBD |
-| [**PHY-150**](docs/2026/09%20-%20PHY150.md) | Intro Physics: Mechanics | Planned (May 2026) | TBD |
-| [**MAT-230**](docs/2026/10%20-%20MAT230.md) | Discrete Mathematics | Planned (Jun–Aug 2026) | TBD |
-| [**CS-250**](docs/2026/11%20-%20CS250.md) | Software Development Lifecycle | Planned (Jun–Aug 2026) | TBD |
-| [**CS-300**](docs/2026/12%20-%20CS300.md) | DSA: Analysis and Design | Planned (Aug–Oct 2026) | TBD |
-| [**DAD-220**](docs/2026/13%20-%20DAD220.md) | Intro to Structured Database Environments | Planned (Aug–Oct 2026) | TBD |
+> Course files in `docs/` are added as courses become active or are completed. Specific assignment solutions are never included, in keeping with academic integrity policies.
 
-## Key Skills & Core Concepts
+---
 
-> **Note**: This section represents the comprehensive list of skills and technologies I will acquire throughout the entire Computer Science degree program. This list will be refined and corrected as I progress through the courses to ensure maximum accuracy.
+## A Note on AI Assistance
 
-| Category | Skills & Concepts Acquired |
-| :----- | :----- |
-| **Programming Languages** | Python, Java, C++, JavaScript |
-| **Core Concepts** | Data Structures, Algorithms, Object-Oriented Programming (OOP), Software Development Life Cycle (SDLC) |
-| **Methodologies** | Agile, Scrum, Version Control (Git) |
-| **Databases** | SQL, Relational Database Management Systems (RDBMS) |
+This repository was built collaboratively with an AI assistant. The role of AI was strictly organizational — it filled in the established templates based on source material I provided. All academic content, insight, and judgment originates with me.
 
-## Next Steps
+Specifically, I provided:
+- My course progress, registration confirmations, and final grades
+- Key takeaways and learnings from each course
+- Summaries of my own discussion posts and written work
+- Official course catalog descriptions
+- Syllabi and course materials
+- The templates and the overall repository structure
 
-My upcoming schedule through the end of 2026:
-
-1. **C-3 (May–Jun 2026):** CS-210 Programming Languages · PHY-150 Intro Physics: Mechanics
-2. **C-4 (Jun–Aug 2026):** MAT-230 Discrete Mathematics · CS-250 Software Development Lifecycle
-3. **C-5 (Aug–Oct 2026):** CS-300 DSA: Analysis and Design · DAD-220 Intro to Structured Database Environments
+The AI's sole contribution was translating that material into the formatted course files and keeping the index pages consistent. No content was generated, fabricated, or inferred by the AI — everything here reflects my actual academic experience.
