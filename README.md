@@ -1,25 +1,22 @@
-# Samuel Stidham — SNHU Computer Science Portfolio
+# Samuel Stidham — CS Degree Journey
 
-This repository documents my academic journey at Southern New Hampshire University across both my undergraduate and graduate Computer Science programs.
-
-**Institution:** Southern New Hampshire University
-**Overall GPA:** 4.000
+Documenting my computer science degree journey, one course at a time. Course summaries, key concepts, and personal reflections — built to follow me across programs and institutions.
 
 ---
 
 ## Programs
 
-| Degree | Status | Projected Completion |
-| :----- | :----- | :----- |
-| [**Bachelor of Science in Computer Science**](bachelors.md) | In Progress | December 2027 |
-| [**Master of Science in Computer Science**](masters.md) | Planned | TBD |
+| Degree | Institution | Status | Projected Completion |
+| :----- | :----- | :----- | :----- |
+| [**Bachelor of Science in Computer Science**](bachelors.md) | SNHU | In Progress | December 2027 |
+| [**Master of Science in Computer Science**](masters.md) | TBD | Planned | TBD |
 
 ---
 
 ## Repository Structure
 
-* [`bachelors.md`](bachelors.md) — Full course list, grades, and schedule for the BS program
-* [`masters.md`](masters.md) — Full course list, grades, and schedule for the MS program *(coming soon)*
+* [`bachelors.md`](bachelors.md) — Course list, grades, and schedule for the BS program
+* [`masters.md`](masters.md) — Course list, grades, and schedule for the MS program *(coming soon)*
 * [`docs/`](docs/) — Individual course summaries, organized by year
 
 > Course files in `docs/` are added as courses become active or are completed. Specific assignment solutions are never included, in keeping with academic integrity policies.
