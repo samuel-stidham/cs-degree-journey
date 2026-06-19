@@ -86,10 +86,10 @@ Below is a summary of the courses taken, organized by academic year. Statuses wi
 | [**MAT-225**](docs/2026/05%20-%20MAT225.md) | Calculus I: Single-Variable Calculus | Completed | **A (989.77/1000)** |
 | [**IT-145**](docs/2026/06%20-%20IT145.md) | Foundation in Application Development | Completed | **A (986.5/1000)** |
 | [**MAT-275**](docs/2026/07%20-%20MAT275.md) | Calculus II: Integration & Series | Completed | **A (994.25/1000)** |
-| [**CS-210**](docs/2026/08%20-%20CS210.md) | Programming Languages | In Progress | TBD |
-| [**PHY-150**](docs/2026/09%20-%20PHY150.md) | Intro Physics: Mechanics | In Progress | **A (Projected: 991.6/1000)** |
-| [**MAT-230**](docs/2026/10%20-%20MAT230.md) | Discrete Mathematics | Planned (Jun–Aug 2026) | TBD |
-| [**CS-250**](docs/2026/11%20-%20CS250.md) | Software Development Lifecycle | Planned (Jun–Aug 2026) | TBD |
+| [**CS-210**](docs/2026/08%20-%20CS210.md) | Programming Languages | Coursework Complete — Grade Pending | **A (Projected: 984.25/1000)** |
+| [**PHY-150**](docs/2026/09%20-%20PHY150.md) | Intro Physics: Mechanics | Coursework Complete — Grade Pending | **A (Projected: 991.6/1000)** |
+| [**MAT-230**](docs/2026/10%20-%20MAT230.md) | Discrete Mathematics | Up Next (Jun–Aug 2026) | TBD |
+| [**CS-250**](docs/2026/11%20-%20CS250.md) | Software Development Lifecycle | Up Next (Jun–Aug 2026) | TBD |
 | [**CS-300**](docs/2026/12%20-%20CS300.md) | DSA: Analysis and Design | Planned (Aug–Oct 2026) | TBD |
 | [**DAD-220**](docs/2026/13%20-%20DAD220.md) | Intro to Structured Database Environments | Planned (Aug–Oct 2026) | TBD |
 | [**CS-230**](docs/2026/14%20-%20CS230.md) | Operating Platforms | Planned (Oct–Dec 2026) | TBD |
@@ -128,7 +128,7 @@ Below is a summary of the courses taken, organized by academic year. Statuses wi
 
 Full degree schedule through graduation (December 2027):
 
-1. **C-3 (May–Jun 2026):** CS-210 Programming Languages · PHY-150 Intro Physics: Mechanics *(In Progress)*
+1. **C-3 (May–Jun 2026):** CS-210 Programming Languages · PHY-150 Intro Physics: Mechanics *(Coursework Complete — Grade Pending)*
 2. **C-4 (Jun–Aug 2026):** MAT-230 Discrete Mathematics · CS-250 Software Development Lifecycle
 3. **C-5 (Aug–Oct 2026):** CS-300 DSA: Analysis and Design · DAD-220 Intro to Structured Database Environments
 4. **C-6 (Oct–Dec 2026):** CS-230 Operating Platforms · CS-305 Software Security · MAT-350 Applied Linear Algebra
