@@ -86,7 +86,7 @@ Below is a summary of the courses taken, organized by academic year. Statuses wi
 | [**MAT-225**](docs/2026/05%20-%20MAT225.md) | Calculus I: Single-Variable Calculus | Completed | **A (989.77/1000)** |
 | [**IT-145**](docs/2026/06%20-%20IT145.md) | Foundation in Application Development | Completed | **A (986.5/1000)** |
 | [**MAT-275**](docs/2026/07%20-%20MAT275.md) | Calculus II: Integration & Series | Completed | **A (994.25/1000)** |
-| [**CS-210**](docs/2026/08%20-%20CS210.md) | Programming Languages | Coursework Complete — Grade Pending | **A (Projected: 984.25/1000)** |
+| [**CS-210**](docs/2026/08%20-%20CS210.md) | Programming Languages | Coursework Complete — Grade Pending | **A (984.25/1000)** |
 | [**PHY-150**](docs/2026/09%20-%20PHY150.md) | Intro Physics: Mechanics | Completed | **A (991.6/1000)** |
 | [**MAT-230**](docs/2026/10%20-%20MAT230.md) | Discrete Mathematics | Up Next (Jun–Aug 2026) | TBD |
 | [**CS-250**](docs/2026/11%20-%20CS250.md) | Software Development Lifecycle | Up Next (Jun–Aug 2026) | TBD |
