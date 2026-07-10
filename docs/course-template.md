@@ -7,7 +7,7 @@
 | **Designation** | [E.g., CS-101] |
 | **Name** | [E.g., Introduction to Programming] |
 | **Term Taken** | [E.g., Fall 2025] |
-| **Final Grade** | [E.g., A (950/1000 points)] |
+| **Final Grade** | [E.g., A (950/1000)] |
 
 **Course Description:**
 [A 1-2 sentence overview of the course's purpose, scope, and primary learning objective.]
@@ -41,6 +41,17 @@ The following major assignments demonstrate my application of the course materia
 
 ---
 
+## Discussion Work & Academic Themes
+
+> Template note (remove when instantiating): all courses except math use this section. Math courses fold discussion summaries into Major Projects instead. Files predating this convention vary in heading and entry style.
+
+1. **[Discussion Title]**
+    * **Focus:** [What the initial post addressed.]
+    * **Analysis:** [The core argument, examples, and evidence.]
+    * **Takeaway:** [What the exchange established or changed.]
+
+---
+
 ## Personal Reflection & Takeaways
 
 [Write a 2-3 paragraph reflection here. This is the most important part of your portfolio, showing critical thinking.]
@@ -55,3 +66,9 @@ The following major assignments demonstrate my application of the course materia
 
 * [Link to Official Documentation/Textbook Resource]
 * [Link to helpful YouTube Playlist or Article]
+
+---
+
+> Template note (remove when instantiating): the back link below assumes the file's final home in `docs/<year>/`.
+
+[← Back to Central Portfolio](../../bachelors.md)
