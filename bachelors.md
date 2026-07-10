@@ -1,6 +1,6 @@
 [← Back to Portfolio Index](README.md)
 
-# My SNHU Computer Science Journey — Bachelor of Science
+# My SNHU Computer Science Journey: Bachelor of Science
 
 This file documents my progress through the Bachelor of Science in Computer Science at Southern New Hampshire University. It focuses on summarizing course concepts and key learning outcomes, demonstrating my progression without sharing specific assignments or solutions.
 
@@ -17,14 +17,14 @@ The primary goal is to maintain a high-integrity record of my academic growth th
 
 ## Degree Path Overview
 
-**Degree:** Bachelor of Science in Computer Science
-**Minor:** Mathematics
-**Total Credits Required:** 120 (75 credits applied, 45 remaining)
-**Projected Graduation:** December 2027
+* **Degree:** Bachelor of Science in Computer Science
+* **Minor:** Mathematics
+* **Total Credits Required:** 120 (75 credits applied, 45 remaining)
+* **Projected Graduation:** December 2027
 
 ### General Education Requirements
 
-* [**IDS-104**](docs/2025/02%20-%20IDS104.md) – Mindset & Growth for Learning ✅
+* [**IDS-104**](docs/2025/02%20-%20IDS104.md) – Mindset and Growth for Lifelong Learning ✅
 * [**PHL-260**](docs/2025/01%20-%20PHL260.md) – Ethical Problem-Solving ✅
 * [**MAT-142**](docs/2025/03%20-%20MAT142.md) – Precalculus with Limits ✅
 * [**MAT-225**](docs/2026/05%20-%20MAT225.md) – Calculus I: Single-Variable Calculus ✅
@@ -35,11 +35,11 @@ The primary goal is to maintain a high-integrity record of my academic growth th
 
 * [**IT-140**](docs/2026/04%20-%20IT140.md) – Introduction to Scripting ✅
 * [**IT-145**](docs/2026/06%20-%20IT145.md) – Foundation in Application Development ✅
-* [**CS-210**](docs/2026/08%20-%20CS210.md) – Programming Languages ⏳
+* [**CS-210**](docs/2026/08%20-%20CS210.md) – Programming Languages ✅
 * [**PHY-150**](docs/2026/09%20-%20PHY150.md) – Intro Physics: Mechanics ✅
 * [**CS-250**](docs/2026/11%20-%20CS250.md) – Software Development Lifecycle ⏳
 * [**MAT-230**](docs/2026/10%20-%20MAT230.md) – Discrete Mathematics ⏳
-* [**CS-300**](docs/2026/12%20-%20CS300.md) – Data Structures and Algorithms ⏳
+* [**CS-300**](docs/2026/12%20-%20CS300.md) – DSA: Analysis and Design ⏳
 * [**DAD-220**](docs/2026/13%20-%20DAD220.md) – Intro to Structured Database Environments ⏳
 * [**CS-230**](docs/2026/14%20-%20CS230.md) – Operating Platforms ⏳
 * [**CS-305**](docs/2026/15%20-%20CS305.md) – Software Security ⏳
@@ -74,8 +74,8 @@ Below is a summary of the courses taken, organized by academic year. Statuses wi
 
 | Course | Name | Status | Final Grade (Points) |
 | :----- | :----- | :----- | :----- |
-| [**PHL-260**](docs/2025/01%20-%20PHL260.md) | Ethical Problem-Solving | Completed | **A (994/1000)** |
-| [**IDS-104**](docs/2025/02%20-%20IDS104.md) | Mindset & Growth for Learning | Completed | **A (1000/1000)** |
+| [**PHL-260**](docs/2025/01%20-%20PHL260.md) | Ethical Problem-Solving | Completed | **A (994.8/1000)** |
+| [**IDS-104**](docs/2025/02%20-%20IDS104.md) | Mindset and Growth for Lifelong Learning | Completed | **A (1000/1000)** |
 | [**MAT-142**](docs/2025/03%20-%20MAT142.md) | Precalculus with Limits | Completed | **A (983.53/1000)** |
 
 ### Year 2 (2026)
@@ -86,15 +86,15 @@ Below is a summary of the courses taken, organized by academic year. Statuses wi
 | [**MAT-225**](docs/2026/05%20-%20MAT225.md) | Calculus I: Single-Variable Calculus | Completed | **A (989.77/1000)** |
 | [**IT-145**](docs/2026/06%20-%20IT145.md) | Foundation in Application Development | Completed | **A (986.5/1000)** |
 | [**MAT-275**](docs/2026/07%20-%20MAT275.md) | Calculus II: Integration & Series | Completed | **A (994.25/1000)** |
-| [**CS-210**](docs/2026/08%20-%20CS210.md) | Programming Languages | Coursework Complete — Grade Pending | **A (984.25/1000)** |
+| [**CS-210**](docs/2026/08%20-%20CS210.md) | Programming Languages | Completed | **A (984.25/1000)** |
 | [**PHY-150**](docs/2026/09%20-%20PHY150.md) | Intro Physics: Mechanics | Completed | **A (991.6/1000)** |
-| [**MAT-230**](docs/2026/10%20-%20MAT230.md) | Discrete Mathematics | Up Next (Jun–Aug 2026) | TBD |
-| [**CS-250**](docs/2026/11%20-%20CS250.md) | Software Development Lifecycle | Up Next (Jun–Aug 2026) | TBD |
+| [**MAT-230**](docs/2026/10%20-%20MAT230.md) | Discrete Mathematics | In Progress (Jun–Aug 2026) | TBD |
+| [**CS-250**](docs/2026/11%20-%20CS250.md) | Software Development Lifecycle | In Progress (Jun–Aug 2026) | TBD |
 | [**CS-300**](docs/2026/12%20-%20CS300.md) | DSA: Analysis and Design | Planned (Aug–Oct 2026) | TBD |
 | [**DAD-220**](docs/2026/13%20-%20DAD220.md) | Intro to Structured Database Environments | Planned (Aug–Oct 2026) | TBD |
 | [**CS-230**](docs/2026/14%20-%20CS230.md) | Operating Platforms | Planned (Oct–Dec 2026) | TBD |
-| [**CS-305**](docs/2026/15%20-%20CS305.md) | Software Security | Planned (Oct–Dec 2026) | TBD |
-| [**MAT-350**](docs/2026/16%20-%20MAT350.md) | Applied Linear Algebra | Planned (Oct–Dec 2026) | TBD |
+| [**CS-305**](docs/2026/15%20-%20CS305.md) | Software Security | Up Next (Oct–Dec 2026) | TBD |
+| [**MAT-350**](docs/2026/16%20-%20MAT350.md) | Applied Linear Algebra | Up Next (Oct–Dec 2026) | TBD |
 
 ### Year 3 (2027)
 
@@ -128,8 +128,8 @@ Below is a summary of the courses taken, organized by academic year. Statuses wi
 
 Full degree schedule through graduation (December 2027):
 
-1. **C-3 (May–Jun 2026):** CS-210 Programming Languages *(Coursework Complete — Grade Pending)* · PHY-150 Intro Physics: Mechanics *(Completed)*
-2. **C-4 (Jun–Aug 2026):** MAT-230 Discrete Mathematics · CS-250 Software Development Lifecycle
+1. **C-3 (May–Jun 2026):** CS-210 Programming Languages *(Completed)* · PHY-150 Intro Physics: Mechanics *(Completed)*
+2. **C-4 (Jun–Aug 2026):** MAT-230 Discrete Mathematics *(In Progress)* · CS-250 Software Development Lifecycle *(In Progress)*
 3. **C-5 (Aug–Oct 2026):** CS-300 DSA: Analysis and Design · DAD-220 Intro to Structured Database Environments
 4. **C-6 (Oct–Dec 2026):** CS-230 Operating Platforms · CS-305 Software Security · MAT-350 Applied Linear Algebra
 5. **C-1 (Jan–Feb 2027):** CS-255 System Analysis and Design · MAT-299 Mathematical Proof and Problem Solving
