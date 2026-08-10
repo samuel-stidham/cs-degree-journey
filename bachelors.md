@@ -89,7 +89,7 @@ Below is a summary of the courses taken, organized by academic year. Statuses wi
 | [**CS-210**](docs/2026/08%20-%20CS210.md) | Programming Languages | Completed | **A (984.25/1000)** |
 | [**PHY-150**](docs/2026/09%20-%20PHY150.md) | Intro Physics: Mechanics | Completed | **A (991.6/1000)** |
 | [**MAT-230**](docs/2026/10%20-%20MAT230.md) | Discrete Mathematics | In Progress (Jun–Aug 2026) | TBD |
-| [**CS-250**](docs/2026/11%20-%20CS250.md) | Software Development Lifecycle | In Progress (Jun–Aug 2026) | TBD |
+| [**CS-250**](docs/2026/11%20-%20CS250.md) | Software Development Lifecycle | In Progress (Jun–Aug 2026) | **A (999.25/1000)** *(projected)* |
 | [**CS-300**](docs/2026/12%20-%20CS300.md) | DSA: Analysis and Design | Planned (Aug–Oct 2026) | TBD |
 | [**DAD-220**](docs/2026/13%20-%20DAD220.md) | Intro to Structured Database Environments | Planned (Aug–Oct 2026) | TBD |
 | [**CS-230**](docs/2026/14%20-%20CS230.md) | Operating Platforms | Planned (Oct–Dec 2026) | TBD |
