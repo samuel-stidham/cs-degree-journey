@@ -90,8 +90,8 @@ Below is a summary of the courses taken, organized by academic year. Statuses wi
 | [**PHY-150**](docs/2026/09%20-%20PHY150.md) | Intro Physics: Mechanics | Completed | **A (991.6/1000)** |
 | [**MAT-230**](docs/2026/10%20-%20MAT230.md) | Discrete Mathematics | Completed | **A (995.69/1000)** |
 | [**CS-250**](docs/2026/11%20-%20CS250.md) | Software Development Lifecycle | Completed | **A (999.25/1000)** |
-| [**CS-300**](docs/2026/12%20-%20CS300.md) | DSA: Analysis and Design | In Progress (Aug–Oct 2026) | TBD |
-| [**DAD-220**](docs/2026/13%20-%20DAD220.md) | Intro to Structured Database Environments | In Progress (Aug–Oct 2026) | TBD |
+| [**CS-300**](docs/2026/12%20-%20CS300.md) | DSA: Analysis and Design | In Progress (Aug–Oct 2026) | **A (Projected: 1000/1000)** |
+| [**DAD-220**](docs/2026/13%20-%20DAD220.md) | Intro to Structured Database Environments | In Progress (Aug–Oct 2026) | **A (Projected: 991.89/1000)** |
 | [**CS-230**](docs/2026/14%20-%20CS230.md) | Operating Platforms | Planned (Oct–Dec 2026) | TBD |
 | [**CS-305**](docs/2026/15%20-%20CS305.md) | Software Security | Up Next (Oct–Dec 2026) | TBD |
 | [**MAT-350**](docs/2026/16%20-%20MAT350.md) | Applied Linear Algebra | Up Next (Oct–Dec 2026) | TBD |
