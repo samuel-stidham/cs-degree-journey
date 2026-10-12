@@ -19,7 +19,7 @@ The primary goal is to maintain a high-integrity record of my academic growth th
 
 * **Degree:** Bachelor of Science in Computer Science
 * **Minor:** Mathematics
-* **Total Credits Required:** 120 (75 credits applied, 45 remaining)
+* **Total Credits Required:** 120 (87 credits applied, 33 remaining)
 * **Projected Graduation:** December 2027
 
 ### General Education Requirements
@@ -41,9 +41,9 @@ The primary goal is to maintain a high-integrity record of my academic growth th
 * [**MAT-230**](docs/2026/10%20-%20MAT230.md) – Discrete Mathematics ✅
 * [**CS-300**](docs/2026/12%20-%20CS300.md) – DSA: Analysis and Design ⏳
 * [**DAD-220**](docs/2026/13%20-%20DAD220.md) – Intro to Structured Database Environments ⏳
-* [**CS-230**](docs/2026/14%20-%20CS230.md) – Operating Platforms ⏳
-* [**CS-305**](docs/2026/15%20-%20CS305.md) – Software Security ⏳
-* [**MAT-350**](docs/2026/16%20-%20MAT350.md) – Applied Linear Algebra ⏳
+* [**CS-305**](docs/2026/14%20-%20CS305.md) – Software Security ⏳
+* [**MAT-350**](docs/2026/15%20-%20MAT350.md) – Applied Linear Algebra ⏳
+* [**CS-230**](docs/2027/16%20-%20CS230.md) – Operating Platforms ⏳
 * [**CS-255**](docs/2027/17%20-%20CS255.md) – System Analysis and Design ⏳
 * [**CS-320**](docs/2027/19%20-%20CS320.md) – Software Testing, Automation, and QA ⏳
 * [**CS-330**](docs/2027/21%20-%20CS330.md) – Computational Graphics and Visualization ⏳
@@ -92,14 +92,14 @@ Below is a summary of the courses taken, organized by academic year. Statuses wi
 | [**CS-250**](docs/2026/11%20-%20CS250.md) | Software Development Lifecycle | Completed | **A (999.25/1000)** |
 | [**CS-300**](docs/2026/12%20-%20CS300.md) | DSA: Analysis and Design | In Progress (Aug–Oct 2026) | **A (Projected: 1000/1000)** |
 | [**DAD-220**](docs/2026/13%20-%20DAD220.md) | Intro to Structured Database Environments | In Progress (Aug–Oct 2026) | **A (Projected: 991.89/1000)** |
-| [**CS-230**](docs/2026/14%20-%20CS230.md) | Operating Platforms | Planned (Oct–Dec 2026) | TBD |
-| [**CS-305**](docs/2026/15%20-%20CS305.md) | Software Security | Up Next (Oct–Dec 2026) | TBD |
-| [**MAT-350**](docs/2026/16%20-%20MAT350.md) | Applied Linear Algebra | Up Next (Oct–Dec 2026) | TBD |
+| [**CS-305**](docs/2026/14%20-%20CS305.md) | Software Security | Up Next (Oct–Dec 2026) | TBD |
+| [**MAT-350**](docs/2026/15%20-%20MAT350.md) | Applied Linear Algebra | Up Next (Oct–Dec 2026) | TBD |
 
 ### Year 3 (2027)
 
 | Course | Name | Status | Final Grade (Points) |
 | :----- | :----- | :----- | :----- |
+| [**CS-230**](docs/2027/16%20-%20CS230.md) | Operating Platforms | Planned (Jan–Feb 2027) | TBD |
 | [**CS-255**](docs/2027/17%20-%20CS255.md) | System Analysis and Design | Planned (Jan–Feb 2027) | TBD |
 | [**MAT-299**](docs/2027/18%20-%20MAT299.md) | Mathematical Proof and Problem Solving | Planned (Jan–Feb 2027) | TBD |
 | [**CS-320**](docs/2027/19%20-%20CS320.md) | Software Testing, Automation, and QA | Planned (Mar–Apr 2027) | TBD |
@@ -131,8 +131,8 @@ Full degree schedule through graduation (December 2027):
 1. **C-3 (May–Jun 2026):** CS-210 Programming Languages *(Completed)* · PHY-150 Intro Physics: Mechanics *(Completed)*
 2. **C-4 (Jun–Aug 2026):** MAT-230 Discrete Mathematics *(Completed)* · CS-250 Software Development Lifecycle *(Completed)*
 3. **C-5 (Aug–Oct 2026):** CS-300 DSA: Analysis and Design *(In Progress)* · DAD-220 Intro to Structured Database Environments *(In Progress)*
-4. **C-6 (Oct–Dec 2026):** CS-230 Operating Platforms · CS-305 Software Security · MAT-350 Applied Linear Algebra
-5. **C-1 (Jan–Feb 2027):** CS-255 System Analysis and Design · MAT-299 Mathematical Proof and Problem Solving
+4. **C-6 (Oct–Dec 2026):** CS-305 Software Security · MAT-350 Applied Linear Algebra
+5. **C-1 (Jan–Feb 2027):** CS-230 Operating Platforms · CS-255 System Analysis and Design · MAT-299 Mathematical Proof and Problem Solving
 6. **C-2 (Mar–Apr 2027):** CS-320 Software Testing, Automation & QA · MAT-415 Abstract Algebra
 7. **C-3 (May–Jun 2027):** CS-330 Computational Graphics and Visualization · IDS-410 Problem Solving for Social Change
 8. **C-4 (Jun–Aug 2027):** CS-340 Client/Server Development · MAT-243 Applied Statistics for STEM

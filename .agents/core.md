@@ -44,6 +44,7 @@ Example: `docs/2026/08 - CS210.md`
 - Numbers are never reused or skipped
 - The next available number is **29**
 - The year folder reflects the calendar year the course is taken, not the academic year
+- When a course moves to a different term, renumber so the sequence stays chronological, neighbors included, and update every link
 
 ---
 
@@ -56,6 +57,8 @@ Example: `docs/2026/08 - CS210.md`
 
 The `bachelors.md` grade-table Status column uses only these values: "Planned (<term dates>)", "Up Next (<term dates>)" once registration is confirmed, "In Progress (<term dates>)", "Grade Pending", and "Completed".
 
+Once a projected final score is known for an In Progress course, the grade column reads `**A (Projected: <points>/1000)**` in place of TBD. The course file header gains a `**Projected Grade**` row directly under Status with the same value. Status stays In Progress until the final grade posts.
+
 Back links in all course files use:
 
 ```markdown
@@ -64,7 +67,7 @@ Back links in all course files use:
 
 ---
 
-## Current Degree Status (as of August 2026)
+## Current Degree Status (as of October 2026)
 
 | Field | Value |
 | --- | --- |
@@ -72,8 +75,10 @@ Back links in all course files use:
 | Concentration | None (dropped to maximize transfer credit application) |
 | Minor | Mathematics |
 | Overall GPA | 4.000 |
-| Credits Applied | 75 / 120 (includes completed, in-progress, and pre-registered) |
-| Credits Remaining | 45 |
+| Credits Applied | 87 / 120 (per the October 2026 academic evaluation) |
+| Credits Remaining | 33 |
+| Requirements Met | 72% |
+| Credits Earned | 73% |
 | Projected Graduation | December 2027 |
 
 ---
@@ -85,8 +90,8 @@ Back links in all course files use:
 | 2026 C-3 | May–Jun 2026 | CS-210, PHY-150 *(Completed)* |
 | 2026 C-4 | Jun–Aug 2026 | MAT-230, CS-250 *(Completed)* |
 | 2026 C-5 | Aug–Oct 2026 | CS-300, DAD-220 *(In Progress)* |
-| 2026 C-6 | Oct–Dec 2026 | CS-230, CS-305, MAT-350 |
-| 2027 C-1 | Jan–Feb 2027 | CS-255, MAT-299 |
+| 2026 C-6 | Oct 26–Dec 20, 2026 | CS-305, MAT-350 *(Up Next)* |
+| 2027 C-1 | Jan 4–Feb 28, 2027 | CS-230, CS-255, MAT-299 |
 | 2027 C-2 | Mar–Apr 2027 | CS-320, MAT-415 |
 | 2027 C-3 | May–Jun 2027 | CS-330, IDS-410 |
 | 2027 C-4 | Jun–Aug 2027 | CS-340, MAT-243 |
@@ -113,7 +118,7 @@ When a term's courses sit in different states, mark each course in the row indiv
 The template files in `docs/` are the single source of structure. Do not restate their section lists here.
 
 - **Upcoming courses:** copy `docs/upcoming-course-template.md` and fill in the header table and catalog description.
-- **In-progress courses:** keep the upcoming header with Status set to "In Progress". Add the full section scaffold from `docs/course-template.md`, spliced before the closing back link. Stub unwritten parts with the standard placeholder phrase.
+- **In-progress courses:** keep the upcoming header with Status set to "In Progress". Add the full section scaffold from `docs/course-template.md`, spliced before the closing back link. Stub unwritten parts with the standard placeholder phrase. Once a projected final score is known, add a `**Projected Grade**` row under Status.
 - **Completed courses:** follow `docs/course-template.md`. Its header uses `**Term Taken**` and `**Final Grade**` in place of `**Planned Term**` and `**Status**`.
 
 Both templates carry blockquote template notes for conditional structure, such as the math-course discussion rule. Remove every template note when instantiating a real course file. Course files never include actual assignment solutions.
@@ -125,7 +130,9 @@ Both templates carry blockquote template notes for conditional structure, such a
 | Event | Action |
 | --- | --- |
 | Course starts | Set "In Progress" in the course file, the `bachelors.md` table and Next Steps entry, and the schedule table above. Scaffold the course file with the full section structure. |
+| Projected score known | Add a **Projected Grade** row under Status in the course file. Replace TBD in the `bachelors.md` grade column with **A (Projected: <points>/1000)**. Leave Status as In Progress. |
 | Course completes | Swap the file header to Term Taken and Final Grade. Sweep remaining placeholders. Record the grade and set the `bachelors.md` table row to Completed. Flip ⏳ to ✅ in the course lists and mark the Next Steps entry *(Completed)*. Update the schedule table above. Refresh the Current Degree Status table's date and credits. |
+| Course moves to another term | Move the file to the new term's calendar-year folder and renumber so the sequence stays chronological, neighbors included. Update the Planned Term row and every link in `bachelors.md`. Move the course to its new position in the course list, grade tables, and Next Steps list. Update the schedule table above. |
 | New course registered | Create the file from `upcoming-course-template.md` and assign the next sequential number. Add the course to the `bachelors.md` table, course lists, and Next Steps list, and to the schedule table above. |
 | Degree status changes | Update the Current Degree Status table in this file and the Degree Path Overview lines in `bachelors.md`. |
 | MS program begins | Populate `masters.md` following the same structure as `bachelors.md`. Add `docs/2028/` (or the relevant year). |
