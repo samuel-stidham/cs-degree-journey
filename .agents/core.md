@@ -89,8 +89,8 @@ Back links in all course files use:
 | --- | --- | --- |
 | 2026 C-3 | May–Jun 2026 | CS-210, PHY-150 *(Completed)* |
 | 2026 C-4 | Jun–Aug 2026 | MAT-230, CS-250 *(Completed)* |
-| 2026 C-5 | Aug–Oct 2026 | CS-300, DAD-220 *(In Progress)* |
-| 2026 C-6 | Oct 26–Dec 20, 2026 | CS-305, MAT-350 *(Up Next)* |
+| 2026 C-5 | Aug–Oct 2026 | CS-300, DAD-220 *(Completed)* |
+| 2026 C-6 | Oct 26–Dec 20, 2026 | CS-305, MAT-350 *(In Progress)* |
 | 2027 C-1 | Jan 4–Feb 28, 2027 | CS-230, CS-255, MAT-299 |
 | 2027 C-2 | Mar–Apr 2027 | CS-320, MAT-415 |
 | 2027 C-3 | May–Jun 2027 | CS-330, IDS-410 |
